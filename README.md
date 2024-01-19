@@ -26,10 +26,12 @@ The following **required** functionality is completed:
 ## App Brainstorming
 
 Favorite Applications:
+
 -Netflix
 
 1. I like how it seperates accounts so each member of my family can watch and be recommened things that they like.
 2. I also enjoy the clear descriptions between media as they make my searches much easier and allow me to browse certain genres. (Comedy,Anime etc)
+
 -Duolingo
 
 1. I like widget animations it has and how they progressively change to become more urgent as the day comes to close and your streak does as well.
